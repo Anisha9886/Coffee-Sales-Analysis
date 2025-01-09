@@ -13,3 +13,5 @@ Sales By Store Location: Different store branches are compared, highlighting per
 Sales Trends by Day and Hour: Sales activity is tracked to identify peak sales hours and weekdays vs. weekends.
 This dashboard provides an at-a-glance view of sales performance and helps stakeholders make data-driven decisions to optimize operations and boost revenue.
 
+![image alert](https://github.com/Anisha9886/Coffee-Sales-Analysis/blob/f22d50560903772bf9a86153804785c9ea94eb3c/Screenshot%202025-01-09%20112531.png)
+
